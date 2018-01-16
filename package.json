@@ -1,7 +1,7 @@
 {
   "name": "js-public",
-  "version": "1.0.0",
-  "description": "js公共代码封装",
+  "version": "1.0.1",
+  "description": "js public method",
   "main": "min/js-public.min.js",
   "scripts": {
     "build": "node script/build.js",
